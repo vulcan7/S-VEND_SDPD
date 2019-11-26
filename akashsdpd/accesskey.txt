@@ -1,0 +1,4 @@
+aws configure reddy 
+AWS Access Key ID [None]: AKIAJVXEK4ACL3MHM6UA 
+AWS Secret Access Key [None] : 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 
+Default region name [None] :us-west-2 Default Output Format [None] :json
